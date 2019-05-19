@@ -1,20 +1,20 @@
 module.exports = {
   // Customize me!
   siteMetadata: {
-    company: "Fox and Geese",
-    domain: "https://foxandgeese.com",
-    defaultTitle: "Website Change Monitoring Products and Services",
+    company: "QuiloBytes Chiloé",
+    domain: "https://www.quilobytes.cl",
+    defaultTitle: "Soporte y Asesorías Informáticas para la isla de Chiloé",
     preamble:
-      "We're a Portland, Oregon-based team of data scientists and software engineers.",
+      "Somos una pequeña empresa de informática basada en Ancud.",
     defaultDescription:
-      "We develop our own products. And provide software engineering and consulting to select clients.",
-    postamble: "Think we can help your project? We'd love to hear from you:",
+      " Nos dedicamos a asesorar a empresas y particulares de la isla de Chiloé para ayudarles a enfrentar la transformación digital, así como dar el soporte necesario para mantener la continuidad operacional de sus negocios.",
+    postamble: "Si podemos ayudar a su proyecto o arreglar su computador, no dude en contactarnos:",
     contact: {
-      email: "hi@foxandgeese.com",
+      email: "contacto@quilobytes.cl",
     },
     menuLinks: [],
   },
-  pathPrefix: "/tiny-agency",
+  pathPrefix: "/quilobytes",
   plugins: [
     "gatsby-transformer-remark",
     "gatsby-plugin-react-helmet",

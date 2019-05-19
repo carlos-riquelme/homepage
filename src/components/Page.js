@@ -5,7 +5,7 @@ import { withStyles } from "@material-ui/core/styles";
 
 const styles = theme => ({
   topper: {
-    backgroundColor: "#eee",
+    backgroundColor: "#4876a9",
   },
   root: {
     maxWidth: "1168px",

@@ -76,7 +76,7 @@ const styles = theme => ({
             variant="h1"
             component="span"
           >
-            <span className={classes.angles}>&lt;</span> hi{" "}
+            <span className={classes.angles}>&lt;</span> QUILOBYTES CHILOÉ{" "}
             <span className={classes.angles}>&gt;</span>
           </Typography>
           <Typography paragraph gutterBottom variant="body1" component="span">
@@ -89,8 +89,8 @@ const styles = theme => ({
         <div className={props.classes.tabs}>
           <Tabs
             items={[
-              ["Our Products", <Robot />, <List items={products} />],
-              ["Our Services", <Alien />, <List items={services} />],
+              ["Nuestros Servicios", <Robot />, <List items={products} />],
+              // ["Our Services", <Alien />, <List items={services} />],
             ]}
           />
         </div>
